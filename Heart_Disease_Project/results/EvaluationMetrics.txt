@@ -1,0 +1,25 @@
+==============================
+ Model: Logistic Regression
+==============================
+Accuracy: 0.86
+Precision: 0.85
+Recall: 0.87
+F1-score: 0.86
+
+Classification Report:
+              precision    recall  f1-score   support
+0             0.90        0.82      0.86        50
+1             0.83        0.91      0.87        54
+accuracy                          0.86       104
+...
+
+==============================
+ Model: Decision Tree
+==============================
+Accuracy: 0.79
+Precision: 0.78
+Recall: 0.80
+F1-score: 0.79
+
+Classification Report:
+...
